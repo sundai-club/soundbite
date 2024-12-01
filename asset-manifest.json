@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/soundbite/static/css/main.a3ae7771.css",
+    "main.js": "/soundbite/static/js/main.82e802b2.js",
+    "static/js/453.39d407ab.chunk.js": "/soundbite/static/js/453.39d407ab.chunk.js",
+    "static/media/logo.png.png": "/soundbite/static/media/logo.png.91b0633d8624732f1f34.png",
+    "index.html": "/soundbite/index.html",
+    "main.a3ae7771.css.map": "/soundbite/static/css/main.a3ae7771.css.map",
+    "main.82e802b2.js.map": "/soundbite/static/js/main.82e802b2.js.map",
+    "453.39d407ab.chunk.js.map": "/soundbite/static/js/453.39d407ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3ae7771.css",
+    "static/js/main.82e802b2.js"
+  ]
+}
